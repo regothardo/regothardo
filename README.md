@@ -1,6 +1,6 @@
 # Olá! 👋 Sou Renata Gothardo Vieira Ramos
 
-Sou uma entusiasta da tecnologia empolgado(a) com a minha transição de carreira para o **desenvolvimento full-stack**. Minha jornada na programação é movida pela paixão em transformar ideias e resolver problemas com código.
+Sou uma entusiasta da tecnologia empolgada com a minha transição de carreira para o **desenvolvimento full-stack**. Minha jornada na programação é movida pela paixão em transformar ideias e resolver problemas com código.
 
 ---
 
