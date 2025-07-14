@@ -19,7 +19,7 @@ Minha jornada na TI foca no desenvolvimento full-stack com React, Python e C#, c
 
 Estou constantemente aprendendo e aprimorando minhas habilidades nas seguintes tecnologias:
 
-<div >
+<div align="center">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" with="40" height="40"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" with="40" height="40"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" with="40" height="40"/>
@@ -38,5 +38,8 @@ Estou constantemente aprendendo e aprimorando minhas habilidades nas seguintes t
 
 Estou sempre aberta a novas conexões e oportunidades. Sinta-se à vontade para entrar em contato:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/renata-gothardo-vieira-ramos-27860518b)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:regothardo@gmail.com)
+<div align="center">
+          <a href="https://www.linkedin.com/in/renata-gothardo-vieira-ramos-27860518b"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" with="40" height="40"/></a>
+          <a href="mailto:regothardo@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" with="40" height="40"/></a>
+          
+</div>
