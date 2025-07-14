@@ -1,4 +1,6 @@
-# Olá! 👋 Sou Renata Gothardo Vieira Ramos
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=500&lines=Ol%C3%A1!+%F0%9F%91%8B+)](https://git.io/typing-svg)
+# Sou Renata Gothardo Vieira Ramos
+
 
 Sou uma entusiasta da tecnologia empolgada com a minha transição de carreira para o **desenvolvimento full-stack**. Minha jornada na programação é movida pela paixão em transformar ideias e resolver problemas com código.
 
